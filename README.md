@@ -7,6 +7,8 @@
 [![Build](https://github.com/zepinglee/gbt7714-bibtex-style/workflows/build/badge.svg)](https://github.com/zepinglee/gbt7714-bibtex-style/actions)
 
 
+# WIP ：适应《东南大学博士研究生毕业论文的格式规定》的特色GB/T 7714-2015
+
 ## Introduction
 
 The `gbt7714` package provides a BibTeX implementation for the China's
